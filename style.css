@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.cabecao {
+    background-color: black;
+    padding: 20px;
+    color: #e44282;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: auto;
+
+}
+
+.mtstTec {
+    width: 150px;
+    position: static;
+    max-width: 150px;
+
+}
+
+.Cria {
+    color: #e44282;
+    text-align: center;
+
+
+
+}
+
+.fundo {
+    width: 600px;
+
+
+
+}
+.cor{
+    color: #e44282;
+
+}
+.paragrafo{
+    padding:20px;
+    background-color: black;
+
+}
+h2{
+    padding:0px;
+    color: #e44282;
+    text-align: center;
+    background-color: black;
+    
+
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: #e44282;
+}
+.form{
+    text-align: center;
+    padding: 20px;
+}
+.form-group{
+    padding:10px;
+    background-color: black;
+    color: #e44282;
+}
+.button button{
+    background-color: #e44282;
+
+}
